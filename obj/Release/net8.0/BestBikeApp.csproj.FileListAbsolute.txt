@@ -1,0 +1,7 @@
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.AssemblyInfoInputs.cache
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.AssemblyInfo.cs
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.csproj.CoreCompileInputs.cache
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.RazorAssemblyInfo.cache
+C:\Users\rwayb\Documents\Projects\BestBikeApp\obj\Release\net8.0\BestBikeApp.RazorAssemblyInfo.cs

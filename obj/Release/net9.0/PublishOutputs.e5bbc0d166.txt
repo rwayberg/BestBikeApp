@@ -1,0 +1,7 @@
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\BestBikeApp.exe
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\appsettings.Development.json
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\appsettings.json
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\BestBikeApp.dll
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\BestBikeApp.deps.json
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\BestBikeApp.runtimeconfig.json
+C:\Users\rwayb\Documents\Projects\BestBikeApp\pub\BestBikeApp.pdb
